@@ -1,7 +1,22 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+```
+yarn add axios
+yarn add bootstrap
 
+getProducts: https://fakestoreapi.com/products
+
+```
+## Components:
+- Navbar
+- Footer
+- Card
+- WelcomePage
+- Welcome2
+- Welcome3
+- Welcome4
+- Welcome5
 ## Available Scripts
 
 In the project directory, you can run:
